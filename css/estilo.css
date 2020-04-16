@@ -1,0 +1,25 @@
+.estilodiv{background-color: #fff;
+           margin: 15px;
+           
+}
+body{background-color:#A9A9A9 ;}
+
+.linha{border-bottom: 2px solid #000;
+}
+
+.data{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      padding: 5px;
+      width:150px;
+}
+
+.hora{font-family: 'Lucida Sans';
+      color:#4169E1
+}
+
+.times{font-weight: bold;
+}
+
+.tabela{float: left;
+        width:150px;
+
+}
